@@ -1,4 +1,3 @@
-//
 var timerElement = document.querySelector("#timer-text");
 var highScores = document.querySelector("#high-scores");
 var startButton = document.querySelector(".start-button");
